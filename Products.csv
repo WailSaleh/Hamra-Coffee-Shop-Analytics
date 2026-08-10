@@ -1,0 +1,54 @@
+Product_ID,Product_Name,Category,Unit_Price,Cost
+101,Espresso,Coffee,2.5,0.5
+102,Turkish Coffee,Coffee,2.0,0.4
+103,Blonde Coffee,Coffee,2.2,0.5
+104,Americano,Coffee,3.0,0.6
+105,Café Latte,Coffee,4.0,0.8
+106,Cappuccino,Coffee,3.5,0.7
+107,Mocha,Coffee,4.5,0.9
+108,Caramel Latte,Coffee,4.8,1.0
+109,Hot Chocolate,Hot Drinks,3.8,0.9
+110,Sahlab,Hot Drinks,4.0,1.0
+201,Tea,Tea,2.0,0.4
+202,Mint Tea,Tea,2.2,0.5
+203,Green Tea,Tea,2.2,0.5
+204,Chamomile Tea,Tea,2.5,0.5
+205,Mate,Tea,2.5,0.5
+301,Lemonade,Cold Drinks,3.0,0.8
+302,Lemonade Mint,Cold Drinks,3.5,1.0
+303,Fresh Orange Juice,Cold Drinks,3.5,1.0
+304,Carrot Juice,Cold Drinks,3.5,1.0
+305,Avocado Shake Cocktails,Shakes,6.0,2.2
+306,Mango Cocktail,Cocktails,6.0,2.2
+307,Strawberry Cocktail,Cocktails,6.0,2.0
+308,Banane Avocat,Cocktails,6.5,2.5
+309,Chocolate Milkshake,Shakes,5.5,1.8
+310,Strawberry Milkshake,Shakes,5.5,1.8
+401,Croissant,Bakery,3.0,0.8
+402,Zaatar Manoushe,Manakish,3.5,0.5
+403,Cheese Manoushe,Manakish,4.5,0.8
+404,Keshek Manoushe,Manakish,4.0,0.7
+405,Lahm Baajin,Manakish,5.0,1.2
+406,Kaak with Cheese,Bakery,3.5,0.8
+407,Cheese Rolls,Appetizers,4.5,1.0
+408,Fries,Appetizers,3.0,0.7
+409,Pita Chips,Appetizers,2.5,0.6
+410,Hummus,Appetizers,4.0,1.2
+411,Mutabbal,Appetizers,4.2,1.2
+501,Shish Tawouk Sandwich,Sandwiches,6.5,2.5
+502,Chicken Sub Sandwich,Sandwiches,7.0,3.0
+503,BBQ Chicken Sandwich,Sandwiches,7.5,3.2
+504,Halloumi Sandwich,Sandwiches,6.0,2.0
+505,Turkey Sandwich,Sandwiches,5.5,2.2
+506,Steak Sandwich,Sandwiches,9.0,4.0
+601,Chicken Caesar Salad,Salads,7.5,3.2
+602,Greek Salad,Salads,6.5,2.8
+603,Fattoush,Salads,5.5,2.0
+604,Tabbouleh,Salads,5.5,2.0
+605,Halloumi Salad,Salads,6.8,2.9
+701,Nutella Crepe,Desserts,5.5,1.8
+702,Lotus Crepe,Desserts,5.8,1.9
+703,Ashta W Banane,Cocktails Specials,7.0,2.5
+704,Mafroukeh Dessert,Desserts,6.5,2.5
+705,Ice Cream 2 Scoops,Desserts,4.0,1.2
+706,Honey Pancakes,Desserts,4.5,1.5

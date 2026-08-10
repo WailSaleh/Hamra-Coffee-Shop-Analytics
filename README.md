@@ -8,7 +8,7 @@
 
 This project analyzes one year of sales data from a Lebanese-style coffee shop located in Hamra, Beirut. The objective is to transform raw transactional data into meaningful business insights that support operational and strategic decision-making.
 
-The project combines Python for data preparation and Tableau for interactive dashboard development, allowing management to monitor performance, understand customer behavior, and identify growth opportunities. :contentReference[oaicite:1]{index=1}
+The project combines Python for data preparation and Tableau for interactive dashboard development, allowing management to monitor performance, understand customer behavior, and identify growth opportunities.
 
 ---
 
@@ -34,7 +34,7 @@ The analysis is based on five datasets:
 - Customers (200 profiles)
 - Products (53 menu items)
 - Time Dimension
-- Final merged dataset for Tableau analysis :contentReference[oaicite:2]{index=2}
+- Final merged dataset for Tableau analysis
 
 ---
 
@@ -112,7 +112,7 @@ The dashboard includes:
 - Items Sold: **7,018**
 - Average Order Value (AOV): **$6.41**
 
-The café demonstrates stable performance with affordable pricing and frequent customer purchases. :contentReference[oaicite:3]{index=3}
+The café demonstrates stable performance with affordable pricing and frequent customer purchases.
 
 ---
 
@@ -126,7 +126,7 @@ Best-selling products include:
 - Steak Sandwich
 - Nutella Crepe
 
-Cold drinks dominate sales volume, while sandwiches and desserts maintain strong demand. :contentReference[oaicite:4]{index=4}
+Cold drinks dominate sales volume, while sandwiches and desserts maintain strong demand.
 
 ---
 
@@ -140,7 +140,7 @@ The highest revenue-generating products include:
 - Nutella Crepe
 - Chocolate Milkshake
 
-Sandwiches are the café's strongest financial driver, while desserts and specialty drinks deliver high profit margins. :contentReference[oaicite:5]{index=5}
+Sandwiches are the café's strongest financial driver, while desserts and specialty drinks deliver high profit margins.
 
 ---
 
@@ -153,7 +153,7 @@ Coffee leads in units sold, followed by:
 - Salads
 - Desserts
 
-Sandwiches generate the highest revenue and profit, while coffee remains the café's highest-volume category. :contentReference[oaicite:6]{index=6}
+Sandwiches generate the highest revenue and profit, while coffee remains the café's highest-volume category.
 
 ---
 
@@ -167,7 +167,7 @@ Peak hours occur around:
 - 4 PM
 - 7 PM
 
-Morning traffic is driven mainly by coffee purchases, while demand declines after 9 PM. :contentReference[oaicite:7]{index=7}
+Morning traffic is driven mainly by coffee purchases, while demand declines after 9 PM.
 
 ---
 
@@ -178,7 +178,7 @@ Weekend traffic is strongest.
 - Saturday records the highest sales.
 - Friday and Sunday also perform well.
 
-These patterns create opportunities for weekend promotions and special menus. :contentReference[oaicite:8]{index=8}
+These patterns create opportunities for weekend promotions and special menus.
 
 ---
 
@@ -193,7 +193,7 @@ Other strong-performing months include:
 - June
 - November
 
-Sales slow slightly during July and October, suggesting seasonal fluctuations. :contentReference[oaicite:9]{index=9}
+Sales slow slightly during July and October, suggesting seasonal fluctuations.
 
 ---
 
@@ -204,7 +204,7 @@ Female customers contribute slightly more revenue than male customers.
 Customer preferences differ by gender:
 
 - Women prefer salads, desserts, and tea.
-- Men purchase more sandwiches, coffee, and appetizers. :contentReference[oaicite:10]{index=10}
+- Men purchase more sandwiches, coffee, and appetizers.
 
 ---
 
@@ -218,7 +218,7 @@ Additional insights:
 
 - Ages 16–25 favor drinks and desserts.
 - Ages 26–35 purchase across all categories.
-- Customers over 50 prefer warm drinks, salads, and lighter meals. :contentReference[oaicite:11]{index=11}
+- Customers over 50 prefer warm drinks, salads, and lighter meals.
 
 ---
 
@@ -233,7 +233,7 @@ Based on the analysis, recommended actions include:
 - Launch seasonal campaigns during peak months.
 - Implement customer loyalty programs.
 - Target younger customers with promotional offers.
-- Align staffing and inventory with peak sales periods. :contentReference[oaicite:12]{index=12}
+- Align staffing and inventory with peak sales periods.
 
 ---
 
@@ -251,7 +251,7 @@ Based on the analysis, recommended actions include:
 
 - Data Cleaning
 - Data Transformation
-- Exploratory Data Analysis
+- Exploratory Data Analysis (EDA)
 - Data Modeling
 
 ### Data Visualization
@@ -271,7 +271,7 @@ Based on the analysis, recommended actions include:
 # 📁 Repository Structure
 
 ```text
-Hamra-Coffee-Shop-Analytics/
+hamra-coffee-shop-analytics/
 │
 ├── Data/
 │   ├── customers.csv
@@ -281,15 +281,16 @@ Hamra-Coffee-Shop-Analytics/
 │   └── Final_Cafe_Dataset_For_Tableau.csv
 │
 ├── Hamra Coffee Shop Analysis.ipynb
+│
 ├── Hamra Coffee Shop.pdf
-├── README.md
+└── README.md
 ```
 
 ---
 
 # 📌 Conclusion
 
-This project demonstrates a complete end-to-end business intelligence workflow, transforming raw café transaction data into actionable business insights. By combining Python for data preparation and Tableau for interactive reporting, the analysis identifies customer trends, product performance, and operational opportunities that support informed business decisions. :contentReference[oaicite:13]{index=13}
+This project demonstrates a complete end-to-end business intelligence workflow, transforming raw café transaction data into actionable business insights. By combining Python for data preparation and Tableau for interactive reporting, the analysis identifies customer trends, product performance, and operational opportunities that support informed business decisions.
 
 ---
 

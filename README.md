@@ -273,15 +273,12 @@ Based on the analysis, recommended actions include:
 ```text
 hamra-coffee-shop-analytics/
 │
-├── Data/
-│   ├── customers.csv
-│   ├── products.csv
-│   ├── sales.csv
-│   ├── time.csv
-│   └── Final_Cafe_Dataset_For_Tableau.csv
-│
+├── customers.csv
+├── products.csv
+├── sales.csv
+├── time.csv
+├── Final_Cafe_Dataset_For_Tableau.csv
 ├── Hamra Coffee Shop Analysis.ipynb
-│
 ├── Hamra Coffee Shop.pdf
 └── README.md
 ```
